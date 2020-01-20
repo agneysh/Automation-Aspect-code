@@ -11,7 +11,7 @@ The goal is to create a small application which can:
 # Technical Details
 It is not completely bug free. You need to have a postsharp license.
 
-The .Net Core version is 2.1
+The .Net Core version is 3.1
 
 Tutorial Link: https://medium.com/dealeron-dev/automating-net-core-services-with-postsharp-and-aspect-oriented-code-a8a51d8d84ec
 
